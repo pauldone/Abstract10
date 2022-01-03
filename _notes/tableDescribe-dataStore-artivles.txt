@@ -1,0 +1,10 @@
+Field,Type,Null,Key,Default,Extra
+id,int(10),NO,PRI,NULL,auto_increment
+articleName,varchar(30),YES,,NULL,
+imageName,varchar(30),YES,,NULL,
+altName,varchar(0),YES,,NULL,
+categ,varchar(25),YES,,NULL,
+titleArticle,varchar(100),YES,,NULL,
+excerpt,varchar(100),YES,,NULL,
+articleBody,mediumtext,YES,,NULL,
+shortID,varchar(25),YES,,NULL,
